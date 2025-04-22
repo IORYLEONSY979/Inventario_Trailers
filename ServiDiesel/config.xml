@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\ioryl\OneDrive\Escritorio\inventario\ServiDiesel.jar</jar>
+  <outfile>C:\Users\ioryl\OneDrive\Escritorio\inventario.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\ioryl\Downloads\Imagen de WhatsApp 2024-08-26 a las 12.16.17_de8a7069.ico</icon>
+  <jre>
+    <path>C:\Program Files (x86)\Java\jre-1.8</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
